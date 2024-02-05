@@ -86,12 +86,10 @@ a {
     margin: 81px 0px 31px;
     /* background-color: red; */
 }
-
 .inside-explorbox {
     display: flex;
     height: 136px;
     width: 1472px;
-    margin: 0px 0px 31px 226px;
     /* background-color: rgb(255, 255, 255); */
 }
 .explorbox-bg {
